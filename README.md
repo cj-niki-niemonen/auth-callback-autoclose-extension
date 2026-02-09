@@ -1,5 +1,7 @@
 # Auth Callback Auto Close Extension
 
+![Extension icon](icon-128.png)
+
 Chrome/Chromium extension that closes successful OAuth callback tabs for
 `http://127.0.0.1:<port>/oauth/callback`.
 
